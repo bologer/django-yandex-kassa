@@ -73,7 +73,7 @@ django-yandex-kassa
         YANDEX_KASSA_PAYMENT_TYPE = ['ab', 'ac', 'gp', 'pb', 'pc', 'wm']
 
 
-#. Указать в рабочем Яндекс Кассы кабинете натсрйоки для приема уведомлений:
+#. Указать в рабочем Яндекс Кассы кабинете настройки для приема уведомлений:
 
 * paymentAvisoURL: https://example.com/kassa/payment-aviso/
 * checkURL: https://example.com/kassa/order-check/
